@@ -1,12 +1,10 @@
 body {
-    background: rgb(135,15,88);
-    background: linear-gradient(90deg, rgba(135,15,88,1) 35%, rgba(18,20,108,1) 100%); 
+    font-family: sans-serif;
 }
 
 .page-header, 
 .basic-info {
-    background: rgb(135,15,88);
-    background: linear-gradient(90deg, rgba(135,15,88,1) 35%, rgba(18,20,108,1) 100%);    
+    background-color: #1f2937;   
 }
 
 
@@ -110,6 +108,7 @@ body {
 
 .feedback {
     padding: 10px 20% 10px 20%;
+    background-color: #e5e7eb;
 }
 
 .feedback #testimonial {
@@ -129,6 +128,8 @@ body {
     justify-content: center;
     align-items: center;
     margin: auto;
+    background-color: #3882f6;
+    margin: auto;
 }
 
 .sign-up-call #get-in-touch {
@@ -139,5 +140,11 @@ body {
 .sign-up-call button {
     color: #0c3a78;
     font-weight: bolder;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
 }
 
