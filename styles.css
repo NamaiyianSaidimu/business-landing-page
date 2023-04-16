@@ -77,7 +77,7 @@ body {
 .services {
     display: flex;
     justify-content: space-evenly;
-    color: gray;
+    color: #000;
 }
 
 
