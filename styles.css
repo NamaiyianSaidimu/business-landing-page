@@ -66,6 +66,10 @@ body {
     font-weight: bolder;
 }
 
+.service {
+    color: #000;
+}
+
 
 #service-info {
     text-align: center;
