@@ -56,8 +56,8 @@ body {
 
 #image {
     width: 80%;
-    height: 400px;
-    padding-bottom: 0px;
+    height: auto;
+    padding-top: 20px;
 }
 
 
