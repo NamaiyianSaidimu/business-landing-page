@@ -95,6 +95,10 @@ body {
     border-radius: 10px;
 }
 
+#branding {
+    border: 1px solid #000;
+}
+
 
 .services {
     margin: auto;
